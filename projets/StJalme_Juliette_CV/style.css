@@ -2,8 +2,8 @@
 body {
     background-color:#FEFEFE;
 }
-h3 {
-    font-family: 'Kaushan Script', Arial, serif;
+h3 { 
+    font-family: 'Kaushan Script', Arial, serif; 
     font-weight: 400;
     color: #FEFEFE;
 }
@@ -29,7 +29,7 @@ h3 {
 }
 .block_1{
     background-image: url("elements/bureau.jpg");
-    height:725px;
+    height:725px;  
     padding-top:120px;
 }
 .block_2{
@@ -87,7 +87,7 @@ h3 {
     height:200px;
     font-family: 'Kaushan Script', Arial, serif;
     font-size:26px;
-
+    
 }
 .Licence{
     background-color:#FEFEFE;
@@ -110,7 +110,7 @@ h3 {
     background-image: url("elements/caissiere.jpg");
     height:400px;
     background-size: cover;
-
+    
 }
 .serveuse{
     background-image: url("elements/serveuse.jpg");
