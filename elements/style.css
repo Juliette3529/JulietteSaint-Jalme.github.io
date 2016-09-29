@@ -28,7 +28,7 @@ height:400px;
     font-size:22px;
 }
 .parallax-window {
-    min-height: 600px;
+    min-height: 400px;
     background: transparent;
 }
 .sous_block{
@@ -376,4 +376,9 @@ a.link:hover{
 .navfooter{
     list-style: none;
 }
+.SocialNetwork{
+    margin-top:20px;
+}
+.canpie{
 
+}
