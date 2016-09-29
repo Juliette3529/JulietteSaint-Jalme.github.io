@@ -212,7 +212,6 @@ one{
     border-bottom-width: 20px;
 }
 footer{
-    height:150px;
     padding-top:20px;
 }
 .ione{
@@ -364,5 +363,17 @@ footer{
     margin-top:40px;
     font-size:22px;
 }
-
+.link {
+    color: #5e5e5e;
+    text-decoration:none;
+    border: none;
+}
+a.link:hover{
+    color:black;
+    text-decoration: none;
+    background-color:#FFFFFF;
+}
+.navfooter{
+    list-style: none;
+}
 
