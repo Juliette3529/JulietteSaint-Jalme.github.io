@@ -120,6 +120,9 @@ pre{
     opacity: 0;
     transition: 0.4s;
 }
+.content p{
+    font-size:24px;
+}
 .nopadding{
     padding:0px;
 }
